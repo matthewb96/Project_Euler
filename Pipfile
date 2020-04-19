@@ -9,6 +9,8 @@ pylint = "*"
 [packages]
 tqdm = "*"
 numpy = "*"
+requests = "*"
+beautifulsoup4 = "*"
 
 [requires]
 python_version = "3.8"

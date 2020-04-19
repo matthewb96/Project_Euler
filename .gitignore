@@ -1,2 +1,5 @@
 # VS Code settings folder
 .vscode
+
+# Ignore folder now that it is being filled by script
+problems/*
